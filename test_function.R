@@ -1,1 +1,2 @@
-test <- function() print("hello world!!!!!!!!!!!")
+test <- function() {print("hello world!!!!!!!!!!!")}
+test()
